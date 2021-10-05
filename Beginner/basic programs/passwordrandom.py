@@ -21,7 +21,7 @@ if num>4:
     random.shuffle(compusory)
     password=""
     password=''.join(compusory)
-    print ("Password Randomly Generated :: " + password)
+    print ("Password Randomly Generated : " + password)
 
 else :
     print("Wrong Input, length of password must be greater than 4.")
