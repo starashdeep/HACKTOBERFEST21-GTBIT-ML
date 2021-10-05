@@ -1,6 +1,6 @@
 from math import sqrt
 
-n = int(input())
+n = int(input("Enter the number\n"))
 
 prime_flag = 0
  
@@ -10,8 +10,8 @@ if(n > 1):
             prime_flag = 1
             break
     if (prime_flag == 0):
-        print("true")
+        print("Input number is prime")
     else:
-        print("false")
+        print("Input number is not prime")
 else:
     print("false")
