@@ -1,0 +1,249 @@
+Gender,Age (in years),State,Type of City,Employment,Product_Category_You_Like_Most
+Female,22,Haryana,TIER 2,Student,Books & Novels
+Male,20,Delhi,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,20,Delhi,TIER 1,Student,Books & Novels
+Male,21,Delhi,TIER 1,Student,Electronic Gadgets
+Male,19,New Delhi,TIER 1,Student,Gaming Devices
+Male,19,New Delhi,TIER 1,Student,Electronic Gadgets
+Male,18,New Delhi,TIER 1,Student,Gaming Devices
+Male,22,Delhi,TIER 1,Self Employed,Electronic Gadgets
+Male,25,Uttar Pradesh,TIER 2,Salaried,Books & Novels
+Female,20,Delhi,TIER 1,Student,Apparel
+Male,21,New Delhi,TIER 1,Student,Books & Novels
+Male,19,Delhi,TIER 1,Student,Electronic Gadgets
+Male,20,Haryana,TIER 3,Student,Gaming Devices
+Male,17,Delhi,TIER 1,Student,Electronic Gadgets
+Male,21,Bihar,TIER 3,Student,Electronic Gadgets
+Male,20,Punjab,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,10,Uttar Pradesh,TIER 1,Student,Footwear
+Male,24,Bihar,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,22,Punjab,TIER 1,Salaried,Electronic Gadgets
+Female,19,Haryana,TIER 2,Student,Books & Novels
+Male,20,Delhi,TIER 1,Student,Gaming Devices
+Female,25,New Delhi,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,19,Haryana,TIER 1,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,19,Haryana,TIER 1,Student,Electronic Gadgets
+Male,22,New Delhi,TIER 1,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,22,Punjab,TIER 2,Student,Apparel
+Male,26,New Delhi,TIER 1,Salaried,Electronic Gadgets
+Male,22,Haryana,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,24,Delhi,TIER 2,Self Employed,Electronic Gadgets
+Male,18,New Delhi,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,20,Delhi,TIER 1,Student,Electronic Gadgets
+Female,20,Haryana,TIER 2,Student,Footwear
+Female,21,Haryana,TIER 1,Student,Apparel
+Male,21,Haryana,TIER 1,Student,Electronic Gadgets
+Male,18,Delhi,TIER 1,Student,Gaming Devices
+Female,20,New Delhi,TIER 1,Student,Books & Novels
+Male,21,Haryana,TIER 2,Salaried,Gaming Devices
+Male,19,New Delhi,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,22,Uttarakhand,TIER 2,Student,Books & Novels
+Male,21,New Delhi,TIER 1,Student,Apparel
+Female,23,Bihar,TIER 3,Self Employed,Gaming Devices
+Female,21,New Delhi,TIER 1,Student,Electronic Gadgets
+Female,20,Bihar,TIER 1,Student,Books & Novels
+Male,24,New Delhi,TIER 1,Student,Footwear
+Female,19,Punjab,TIER 1,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,21,Delhi,TIER 1,Self Employed,Electronic Gadgets
+Male,23,Bihar,TIER 2,Student,Gaming Devices
+Male,20,Delhi,TIER 1,Student,Electronic Gadgets
+Male,24,Delhi,TIER 1,Self Employed,Books & Novels
+Female,26,Haryana,TIER 2,Salaried,Gaming Devices
+Male,27,Bihar,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,21,New Delhi,TIER 3,Self Employed,Apparel
+Female,19,Uttarakhand,TIER 1,Student,Footwear
+Female,23,Uttar Pradesh,TIER 3,Student,Electronic Gadgets
+Male,25,Delhi,TIER 2,Salaried,Books & Novels
+Male,28,Haryana,TIER 2,Salaried,Gaming Devices
+Male,19,Uttarakhand,TIER 3,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,22,Uttarakhand,TIER 1,Student,Footwear
+Female,20,Uttar Pradesh,TIER 2,Self Employed,Electronic Gadgets
+Male,19,Haryana,TIER 3,Self Employed,Apparel
+Male,21,New Delhi,TIER 2,Student,Books & Novels
+Male,20,Bihar,TIER 3,Student,Gaming Devices
+Female,26,Haryana,TIER 2,Self Employed,Electronic Gadgets
+Male,22,Bihar,TIER 1,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,29,Uttarakhand,TIER 2,Salaried,Gaming Devices
+Female,23,Uttar Pradesh,TIER 3,Self Employed,Footwear
+Male,28,New Delhi,TIER 1,Salaried,Books & Novels
+Female,20,Haryana,TIER 1,Self Employed,Footwear
+Male,20,Bihar,TIER 2,Student,Gaming Devices
+Female,22,Uttarakhand,TIER 1,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,26,Haryana,TIER 1,Self Employed,Books & Novels
+Female,25,New Delhi,TIER 2,Salaried,Apparel
+Male,22,Delhi,TIER 1,Salaried,Electronic Gadgets
+Female,21,Delhi,TIER 1,Student,Electronic Gadgets
+Male,23,Haryana,TIER 2,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,20,Haryana,TIER 1,Student,Books & Novels
+Male,21,New Delhi,TIER 1,Student,Electronic Gadgets
+Male,22,Uttarakhand,TIER 2,Self Employed,Apparel
+Male,22,New Delhi,TIER 1,Self Employed,Apparel
+Male,20,Bihar,TIER 1,Student,Apparel
+Female,21,New Delhi,TIER 2,Self Employed,Books & Novels
+Male,25,Bihar,TIER 3,Student,Footwear
+Male,24,New Delhi,TIER 2,Student,Gaming Devices
+Male,21,Punjab,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,19,Delhi,TIER 2,Salaried,Books & Novels
+Male,19,Bihar,TIER 3,Self Employed,Apparel
+Male,23,Delhi,TIER 1,Student,Electronic Gadgets
+Male,26,Delhi,TIER 1,Self Employed,Electronic Gadgets
+Male,24,Haryana,TIER 2,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,22,Bihar,TIER 1,Student,Books & Novels
+Female,23,New Delhi,TIER 1,Student,Electronic Gadgets
+Male,19,Uttarakhand,TIER 2,Self Employed,Apparel
+Female,20,Uttar Pradesh,TIER 1,Student,Apparel
+Female,21,Delhi,TIER 1,Salaried,Apparel
+Male,21,Haryana,TIER 2,Self Employed,Books & Novels
+Male,20,Uttarakhand,TIER 1,Salaried,Footwear
+Female,23,Uttarakhand,TIER 1,Self Employed,Gaming Devices
+Male,23,Uttar Pradesh,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,23,Haryana,TIER 1,Self Employed,Books & Novels
+Male,21,New Delhi,TIER 1,Self Employed,Apparel
+Male,21,Bihar,TIER 2,Salaried,Electronic Gadgets
+Female,21,Haryana,TIER 3,Salaried,Electronic Gadgets
+Female,22,Bihar,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,20,Uttarakhand,TIER 1,Salaried,Books & Novels
+Male,20,Uttar Pradesh,TIER 2,Student,Electronic Gadgets
+Male,26,New Delhi,TIER 3,Student,Apparel
+Female,26,Haryana,TIER 1,Self Employed,Apparel
+Male,24,Bihar,TIER 1,Self Employed,Apparel
+Male,21,Uttarakhand,TIER 2,Student,Books & Novels
+Male,21,Haryana,TIER 1,Self Employed,Footwear
+Male,22,New Delhi,TIER 1,Student,Gaming Devices
+Female,23,Delhi,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,24,Delhi,TIER 1,Salaried,Books & Novels
+Female,21,Haryana,TIER 1,Salaried,Apparel
+Male,23,Haryana,TIER 2,Self Employed,Electronic Gadgets
+Female,21,New Delhi,TIER 1,Student,Electronic Gadgets
+Male,23,Uttarakhand,TIER 1,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,21,New Delhi,TIER 2,Self Employed,Books & Novels
+Male,23,Bihar,TIER 1,Student,Electronic Gadgets
+Male,25,New Delhi,TIER 1,Student,Apparel
+Female,21,Bihar,TIER 2,Self Employed,Apparel
+Male,23,New Delhi,TIER 3,Student,Apparel
+Female,19,Punjab,TIER 2,Salaried,Books & Novels
+Female,19,Delhi,TIER 1,Self Employed,Footwear
+Female,20,Bihar,TIER 2,Salaried,Gaming Devices
+Male,21,Delhi,TIER 3,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,23,Delhi,TIER 1,Student,Books & Novels
+Male,23,Haryana,TIER 1,Self Employed,Apparel
+Male,21,Bihar,TIER 2,Self Employed,Electronic Gadgets
+Female,21,New Delhi,TIER 1,Salaried,Electronic Gadgets
+Male,24,Uttarakhand,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,24,Uttar Pradesh,TIER 2,Student,Books & Novels
+Male,24,Delhi,TIER 1,Salaried,Electronic Gadgets
+Female,24,Haryana,TIER 1,Student,Apparel
+Male,26,Uttarakhand,TIER 2,Student,Apparel
+Female,26,Uttarakhand,TIER 1,Self Employed,Apparel
+Female,25,Uttar Pradesh,TIER 1,Self Employed,Books & Novels
+Male,25,Haryana,TIER 2,Student,Footwear
+Female,25,New Delhi,TIER 1,Self Employed,Gaming Devices
+Male,26,Bihar,TIER 1,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,24,Haryana,TIER 2,Student,Books & Novels
+Male,22,Bihar,TIER 3,Salaried,Apparel
+Female,21,Uttarakhand,TIER 2,Salaried,Electronic Gadgets
+Male,20,Uttar Pradesh,TIER 1,Self Employed,Electronic Gadgets
+Female,21,New Delhi,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,22,Haryana,TIER 3,Self Employed,Books & Novels
+Male,23,Bihar,TIER 1,Self Employed,Electronic Gadgets
+Male,23,Uttarakhand,TIER 1,Student,Apparel
+Male,24,Haryana,TIER 2,Student,Apparel
+Male,23,New Delhi,TIER 1,Self Employed,Apparel
+Male,25,Delhi,TIER 1,Student,Books & Novels
+Female,26,Delhi,TIER 2,Salaried,Footwear
+Male,21,Haryana,TIER 1,Self Employed,Gaming Devices
+Male,19,Haryana,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,20,New Delhi,TIER 2,Self Employed,Books & Novels
+Male,21,Uttarakhand,TIER 1,Student,Apparel
+Male,20,New Delhi,TIER 1,Self Employed,Electronic Gadgets
+Male,23,Bihar,TIER 2,Self Employed,Electronic Gadgets
+Male,25,New Delhi,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,24,Bihar,TIER 1,Salaried,Books & Novels
+Male,26,New Delhi,TIER 2,Student,Electronic Gadgets
+Female,21,Punjab,TIER 3,Salaried,Apparel
+Male,23,Delhi,TIER 2,Student,Apparel
+Female,21,Bihar,TIER 1,Student,Apparel
+Female,23,Delhi,TIER 2,Self Employed,Books & Novels
+Male,21,Delhi,TIER 3,Self Employed,Footwear
+Male,23,Haryana,TIER 1,Student,Gaming Devices
+Female,24,Bihar,TIER 1,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,23,New Delhi,TIER 2,Student,Books & Novels
+Male,21,Uttarakhand,TIER 1,Student,Apparel
+Male,23,Uttar Pradesh,TIER 1,Salaried,Electronic Gadgets
+Male,21,Delhi,TIER 2,Salaried,Electronic Gadgets
+Female,23,Haryana,TIER 1,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,21,Uttarakhand,TIER 1,Student,Books & Novels
+Female,26,Uttarakhand,TIER 2,Self Employed,Electronic Gadgets
+Male,24,Uttar Pradesh,TIER 1,Self Employed,Apparel
+Male,21,Haryana,TIER 1,Student,Apparel
+Female,23,New Delhi,TIER 2,Student,Apparel
+Male,21,Bihar,TIER 1,Self Employed,Books & Novels
+Male,23,Haryana,TIER 1,Student,Footwear
+Male,21,Bihar,TIER 2,Salaried,Gaming Devices
+Male,25,Uttarakhand,TIER 3,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,21,Uttar Pradesh,TIER 2,Salaried,Books & Novels
+Female,23,New Delhi,TIER 1,Self Employed,Apparel
+Female,24,Haryana,TIER 2,Student,Electronic Gadgets
+Male,21,Bihar,TIER 3,Self Employed,Electronic Gadgets
+Female,23,Uttarakhand,TIER 1,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,21,Haryana,TIER 1,Salaried,Books & Novels
+Male,23,New Delhi,TIER 2,Salaried,Electronic Gadgets
+Male,25,Delhi,TIER 1,Student,Apparel
+Male,26,Delhi,TIER 1,Salaried,Apparel
+Female,21,Haryana,TIER 2,Student,Apparel
+Male,23,Haryana,TIER 1,Student,Books & Novels
+Female,21,New Delhi,TIER 1,Self Employed,Footwear
+Female,22,Uttarakhand,TIER 2,Self Employed,Gaming Devices
+Female,20,New Delhi,TIER 1,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,26,Bihar,TIER 1,Self Employed,Books & Novels
+Male,21,New Delhi,TIER 2,Student,Apparel
+Male,19,Bihar,TIER 1,Student,Electronic Gadgets
+Male,19,New Delhi,TIER 1,Salaried,Electronic Gadgets
+Female,20,Punjab,TIER 2,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,25,Delhi,TIER 3,Self Employed,Books & Novels
+Male,21,Bihar,TIER 2,Student,Electronic Gadgets
+Male,26,Delhi,TIER 1,Self Employed,Apparel
+Female,26,Delhi,TIER 2,Self Employed,Apparel
+Male,26,Haryana,TIER 3,Student,Apparel
+Female,21,Bihar,TIER 1,Student,Books & Novels
+Female,23,New Delhi,TIER 1,Self Employed,Footwear
+Male,21,Uttarakhand,TIER 2,Student,Gaming Devices
+Female,22,Uttar Pradesh,TIER 1,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,20,Delhi,TIER 1,Self Employed,Books & Novels
+Female,26,Haryana,TIER 2,Salaried,Apparel
+Male,21,Uttarakhand,TIER 1,Self Employed,Electronic Gadgets
+Female,19,Uttarakhand,TIER 1,Student,Electronic Gadgets
+Male,19,Uttar Pradesh,TIER 2,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,20,Haryana,TIER 1,Self Employed,Books & Novels
+Male,25,New Delhi,TIER 1,Salaried,Electronic Gadgets
+Male,21,Bihar,TIER 2,Salaried,Apparel
+Male,26,Haryana,TIER 1,Student,Apparel
+Male,26,Bihar,TIER 1,Salaried,Apparel
+Male,25,Uttarakhand,TIER 2,Student,Books & Novels
+Male,21,Uttar Pradesh,TIER 3,Student,Footwear
+Female,26,New Delhi,TIER 2,Self Employed,Gaming Devices
+Male,26,Haryana,TIER 1,Self Employed,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,26,Bihar,TIER 2,Student,Books & Novels
+Male,21,Uttarakhand,TIER 3,Self Employed,Apparel
+Male,23,Haryana,TIER 1,Student,Electronic Gadgets
+Male,21,New Delhi,TIER 1,Student,Electronic Gadgets
+Male,22,Delhi,TIER 2,Salaried,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Male,20,Delhi,TIER 1,Salaried,Books & Novels
+Male,26,Haryana,TIER 1,Self Employed,Electronic Gadgets
+Male,27,Haryana,TIER 2,Student,Apparel
+Female,21,New Delhi,TIER 1,Self Employed,Apparel
+Male,19,Uttarakhand,TIER 1,Self Employed,Apparel
+Female,23,New Delhi,TIER 2,Student,Books & Novels
+Female,25,Bihar,TIER 1,Student,Footwear
+Male,28,New Delhi,TIER 1,Self Employed,Gaming Devices
+Male,19,Bihar,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,22,New Delhi,TIER 1,Salaried,Books & Novels
+Male,20,Punjab,TIER 1,Self Employed,Apparel
+Male,19,Delhi,TIER 2,Salaried,Electronic Gadgets
+Male,21,Bihar,TIER 3,Self Employed,Electronic Gadgets
+Male,20,Delhi,TIER 2,Student,"Entertainment Subscriptions(Netflix, Prime Etc.)"
+Female,26,Delhi,TIER 1,Self Employed,Books & Novels
+Female,22,Haryana,TIER 2,Self Employed,Electronic Gadgets
+Female,24,Bihar,TIER 3,Salaried,Apparel
+Male,20,New Delhi,TIER 2,Salaried,Apparel
+Male,21,Uttarakhand,TIER 3,Salaried,Apparel
