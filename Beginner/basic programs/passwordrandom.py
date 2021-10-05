@@ -1,6 +1,6 @@
 import random
 
-num=int(input("Enter length of password :: "))
+num=int(input("Enter length of password : "))
 if num>4:
     dig,low_alpha,upper_alpha,spcl_chr=[],[],[],[]
     for i in range(10):
@@ -24,4 +24,4 @@ if num>4:
     print ("Password Randomly Generated :: " + password)
 
 else :
-    print("Wrong Input")
+    print("Wrong Input, length of password must be greater than 4.")
