@@ -1,6 +1,11 @@
 import sys
-A = [64, 25, 12, 22, 11]
+A = []
+n = int(input("Enter the number of elements : "))
 
+# Taking input from the user 
+for i in range(0, n):
+    ele = int(input()) 
+    A.append(ele)
 
 for i in range(len(A)):
 
@@ -13,6 +18,6 @@ for i in range(len(A)):
 	A[i], A[min_idx] = A[min_idx], A[i]
 
 
-print ("Sorted array")
+print ("\nSorted array : ")
 for i in range(len(A)):
 	print("%d" %A[i]),
