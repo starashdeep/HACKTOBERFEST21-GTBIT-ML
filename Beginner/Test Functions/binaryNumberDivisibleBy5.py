@@ -18,8 +18,6 @@ for i in range(0, len(n_base4)):
     else:
         odd_sum += n_base4[i]
 
-print(odd_sum, even_sum)
-
 if(abs(odd_sum-even_sum) % 11 == 0):
     print("Input binary number is divisible by 5")
 else:
