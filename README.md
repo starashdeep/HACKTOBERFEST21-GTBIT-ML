@@ -1,4 +1,4 @@
-# HacktoberFest-20-GTBIT-ML
+# HacktoberFest-21-GTBIT-ML
 
 
 Greetings!!!
@@ -7,7 +7,7 @@ For all those who're interested in beginning their journey into the world of Ope
 
 To begin, the following steps should be followed:-
 
-1. [Fork](https://github.com/dsc-gtbit/HacktoberFest-20-GTBIT-ML) and clone the repository
+1. Fork and clone the repository
 2. Create a new branch: git checkout -b my-branch-name
 3. Add a file with your name in the contributions folder telling about your contributions and also link that file in the readme
 4. Push to your fork and submit a pull request
